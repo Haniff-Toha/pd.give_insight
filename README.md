@@ -4,9 +4,9 @@ This repo is for Rakamin DS Bootcamp Batch 33 Group 4 (pd.give_insight(✨)) Fin
 _Data_: [Loan Data](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv)
 
 1. Case Study:
->PT. Insight, perusahaan Fintech yang menghadapi tantangan default rate sebesar 12,3%, membutuhkan langkah-langkah untuk meningkatkan kinerja dan mengurangi risiko.
->Agar kejadian tersebut tidak terulang lagi dimasa depan, Tim Assessment merekomendasikan penggunaan model prediksi default customer berdasarkan perilaku pelanggan dari data historis, guna memfasilitasi proses persetujuan pinjaman (loan approval) dengan credit scoring yang lebih akurat.
->Tim data scientist akan mengembangkan model tersebut untuk membantu meningkatkan performa perusahaan dan mengoptimalkan pengelolaan risiko kredit.
+><p>PT. Insight, perusahaan Fintech yang menghadapi tantangan default rate sebesar 12,3%, membutuhkan langkah-langkah untuk meningkatkan kinerja dan mengurangi risiko.</p>
+><p>Agar kejadian tersebut tidak terulang lagi dimasa depan, Tim Assessment merekomendasikan penggunaan model prediksi default customer berdasarkan perilaku pelanggan dari data historis, guna memfasilitasi proses persetujuan pinjaman (loan approval) dengan credit scoring yang lebih akurat.</p>
+><p>Tim data scientist akan mengembangkan model tersebut untuk membantu meningkatkan performa perusahaan dan mengoptimalkan pengelolaan risiko kredit.</p>
 
 3. Role:
    * Project Manager : Amarindra Ardinova
