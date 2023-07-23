@@ -1,5 +1,5 @@
 # pd.give_insight(✨)
->This repo is for Rakamin DS Bootcamp Batch 33 Group 4 (pd.give_insight(✨)) Final Project; Default Risk Classification || Credit Scoring For Loan Customer."
+This repo is for Rakamin DS Bootcamp Batch 33 Group 4 (pd.give_insight(✨)) Final Project; Default Risk Classification || Credit Scoring For Loan Customer."
 
 _Data_: https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv
 
