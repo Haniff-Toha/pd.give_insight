@@ -1,7 +1,7 @@
 # pd.give_insight(✨)
 This repo is for Rakamin DS Bootcamp Batch 33 Group 4 (pd.give_insight(✨)) Final Project; Default Risk Classification || Credit Scoring For Loan Customer."
 
-_Data_: [Loan Data](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv)
+**Data**: [Loan Data](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv)
 
 1. Case Study:
 ><p>PT. Insight, perusahaan Fintech yang menghadapi tantangan default rate sebesar 12,3%, membutuhkan langkah-langkah untuk meningkatkan kinerja dan mengurangi risiko.</p>
@@ -29,9 +29,9 @@ _Data_: [Loan Data](https://www.kaggle.com/datasets/subhamjain/loan-prediction-b
    - Melalui pengembangan model prediksi credit scoring, dapat diidentifikasi dan dianalisis faktor dan variabel yang berpengaruh secara signifikan terhadap kemungkinan default pada nasabah pinjaman.
    - Analisis ini membantu dalam mengidentifikasi kunci karakteristik defaulters loan customer untuk mengoptimalkan penilaian risiko kredit.
 6. Business Metrics:
-   - _Default rate %_ (harus turun) :
+   - **Default rate %** (harus turun) :
      Upaya menurunkan tingkat default rate dapat mengurangi persentase pelanggan yang gagal membayar pinjaman.
-   - _Opportunity Lost_ (harus turun) :
+   - **Opportunity Lost** (harus turun) :
      Dengan mengurangi opportunity lost, jumlah pelanggan yang mengalami kegagalan pembayaran juga dapat berkurang. Hal ini penting untuk menjaga kestabilan keuangan perusahaan dan meningkatkan kepercayaan pelanggan.
 
 Feature on Dataset:
