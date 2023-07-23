@@ -36,13 +36,9 @@ This repo is for Rakamin DS Bootcamp Batch 33 Group 4 (pd.give_insight(✨)) Fin
      Dengan mengurangi opportunity lost, jumlah pelanggan yang mengalami kegagalan pembayaran juga dapat berkurang. Hal ini penting untuk menjaga kestabilan keuangan perusahaan dan meningkatkan kepercayaan pelanggan.
 
 Feature on Dataset:
-<div align="center">
-  ![image](https://github.com/Haniff-Toha/pd.give_insight/assets/68419391/42ed4b91-452e-4284-ae9f-512b8fdbbd9c)
-</div>
+![image](https://github.com/Haniff-Toha/pd.give_insight/assets/68419391/42ed4b91-452e-4284-ae9f-512b8fdbbd9c){style="display: block; margin: 0 auto" }
 
 ## Project Timeline
-<div align="center">
-  ![image](https://github.com/Haniff-Toha/pd.give_insight/assets/68419391/fd684a28-d21b-49df-8788-3a801267f8a6)
-</div>
+![image](https://github.com/Haniff-Toha/pd.give_insight/assets/68419391/fd684a28-d21b-49df-8788-3a801267f8a6){style="display: block; margin: 0 auto" }
 
 
